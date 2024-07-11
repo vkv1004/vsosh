@@ -18,3 +18,6 @@ project\Scripts\activate
 pip install PyQt5  
 pip install pyinstaller  
 pyinstaller --onefile --noconsole main.py  
+
+Ссылка на итог:
+https://disk.yandex.ru/d/kfps3ZMBRv3X9g
